@@ -26,6 +26,18 @@ export class BooksComponent implements OnInit {
       amount: 34,
       author: 'david thomas',
       image: 'https://m.media-amazon.com/images/P/B07VRS84D1.01._SCLZZZZZZZ_SX500_.jpg'
+    },
+    {
+      name: 'art of computer programming',
+      amount: 45,
+      author: 'donald john fuller',
+      image: 'https://m.media-amazon.com/images/I/41YfMy-umUL._AC_UY218_.jpg'
+    },
+    {
+      name: 'intoduction to algorithms',
+      amount: 54,
+      author: 'thomas h. corman',
+      image: 'https://m.media-amazon.com/images/I/61Pgdn8Ys-L._AC_UY218_.jpg'
     }
   ]
   
